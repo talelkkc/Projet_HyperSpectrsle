@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xml-stylesheet type="text/xsl" href="Tomatoes_Wednesday.xsl"?>
+<properties><header><key field="sensor type">FX10</key>
+        <key field="sensor id">1210104</key>
+        <key field="frame rate">100.00524902344</key>
+        <key field="integration time">8</key>
+        <key field="samples">1024</key>
+        <key field="active bands">448</key>
+        <key field="spatial binning">1</key>
+        <key field="spectral binning">1</key>
+        <key field="frames recorded">1021</key>
+        <key field="frames dropped">0</key>
+        <key field="data format">BIL</key>
+        <key field="date">2019-05-15</key>
+        <key field="date text">Wednesday, May 15, 2019</key>
+        <key field="time">06:10:49</key>
+        <key field="calibration pack">C:/Users/Public/Documents/Specim/FX10_FX_calpack.scp</key>
+    </header>
+    <userdefined><key field="sample name">Tomatoes_Wednesday</key>
+        <key field="operator">EHE</key>
+        <key field="description"></key>
+        <key field="sensor temperature">40.351623535156</key>
+        <key field="sensor prefix">FX10</key>
+    </userdefined>
+</properties>
